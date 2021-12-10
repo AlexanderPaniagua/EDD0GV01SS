@@ -1,0 +1,14 @@
+
+-Las TIJERAS ganan al PAPEL (lo cortan)
+-El PAPEL gana a la PIEDRA (la envuelve)
+-La PIEDRA gana al LAGARTO (lo aplasta)
+-El LAGARTO gana a SPOCK (lo envenena)
+-SPOCK gana a las TIJERAS (las rompe)
+-Las TIJERAS ganan al LAGARTO (lo decapitan)
+-El LAGARTO gana al PAPEL (lo devora)
+-El PAPEL gana a SPOCK (lo desautoriza)
+-SPOCK gana a la PIEDRA (la vaporiza)
+-La PIEDRA gana a las TIJERAS (las aplasta)
+-Elementos iguales producen un empate
+
+XXX
